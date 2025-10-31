@@ -22,9 +22,6 @@ public class Test1 {
 
         String reponse = model.chat(question);
 
-        System.out.println("=====================================================");
         System.out.println("Réponse du modèle : " + reponse);
-        System.out.println("=====================================================");
-
     }
 }
