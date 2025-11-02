@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15dac10d-acec-4b71-b74d-306be218d283" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/emsi/hamidi/Test5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ma/emsi/hamidi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/emsi/hamidi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ma/emsi/hamidi/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/emsi/hamidi/Test4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761926888007</updated>
       <workItem from="1761926890139" duration="5343000" />
-      <workItem from="1762109529913" duration="3831000" />
+      <workItem from="1762109529913" duration="4795000" />
     </task>
     <servers />
   </component>
