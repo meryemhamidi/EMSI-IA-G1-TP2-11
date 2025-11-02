@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15dac10d-acec-4b71-b74d-306be218d283" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine learning.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ma/emsi/hamidi/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/emsi/hamidi/Test5.java" afterDir="false" />
-    </list>
+    <list default="true" id="15dac10d-acec-4b71-b74d-306be218d283" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761926888007</updated>
       <workItem from="1761926890139" duration="5343000" />
-      <workItem from="1762109529913" duration="6747000" />
+      <workItem from="1762109529913" duration="6880000" />
     </task>
     <servers />
   </component>
